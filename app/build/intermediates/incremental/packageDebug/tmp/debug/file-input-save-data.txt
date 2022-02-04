@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Feb 04 19:35:50 SGT 2022
+0.base=D\:\\Documents\\AndroidStudioProjects\\bmi-calculator\\BMICalculatorApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX
